@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SBoot
+Implementation-Version: 1.0
+Built-By: Ramesh
+Implementation-Vendor-Id: com.minds
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SBoot
+Created-By: Maven Integration for Eclipse
+
